@@ -1,0 +1,48 @@
+F:\Peliculas\3D
+F:\Peliculas\HD
+F:\Peliculas\SD
+F:\Peliculas\3D\Gigantes de la Patagonia.mkv
+F:\Peliculas\HD\Bullit.mkv
+F:\Peliculas\HD\Caza al asesino.mkv
+F:\Peliculas\HD\Deuda de sangre.mkv
+F:\Peliculas\HD\Doce del patibulo.mkv
+F:\Peliculas\HD\El desafio de las aguilas.mkv
+F:\Peliculas\HD\El final de la cuenta atras.mkv
+F:\Peliculas\HD\El golpe.mkv
+F:\Peliculas\HD\El puente sobre el rio Kwai.mkv
+F:\Peliculas\HD\Estado de sitio.mkv
+F:\Peliculas\HD\Grupo Salvaje.mkv
+F:\Peliculas\HD\Jarhead.mkv
+F:\Peliculas\HD\Juego de patriotas.mkv
+F:\Peliculas\HD\La gran evasion.mkv
+F:\Peliculas\HD\La jungla humana.mkv
+F:\Peliculas\HD\La lista de Schindler.mkv
+F:\Peliculas\HD\La noche mas oscura.mkv
+F:\Peliculas\HD\La zona gris.mkv
+F:\Peliculas\HD\Las Aventuras Tintin.mkv
+F:\Peliculas\HD\Los canones de Navarone.mkv
+F:\Peliculas\HD\Los violentos de Kelly.mkv
+F:\Peliculas\HD\Nomadas del viento.mkv
+F:\Peliculas\HD\Oceanos.mkv
+F:\Peliculas\HD\Rommel.mkv
+F:\Peliculas\HD\Ronin.mkv
+F:\Peliculas\HD\Saga Harry Potter
+F:\Peliculas\HD\Son of gun.mkv
+F:\Peliculas\HD\The Eichmann Show.mkv
+F:\Peliculas\HD\Tiempos de gloria.mkv
+F:\Peliculas\HD\Todos los hombres del presidente.mkv
+F:\Peliculas\HD\Tomorrowland.mkv
+F:\Peliculas\HD\Saga Harry Potter\01 - Harry Potter Y La Piedra Filosofal.mkv
+F:\Peliculas\HD\Saga Harry Potter\02 - Harry Potter y la camara de los secretos.mkv
+F:\Peliculas\HD\Saga Harry Potter\03 - Harry Potter y el prisionero de Azkaban.mkv
+F:\Peliculas\HD\Saga Harry Potter\04 - Harry Potter Y El Caliz De Fuego.mkv
+F:\Peliculas\HD\Saga Harry Potter\05 - Harry Potter Y La Orden Del Fenix.mkv
+F:\Peliculas\HD\Saga Harry Potter\06 - Harry Potter Y El Misterio Del Principe.mkv
+F:\Peliculas\HD\Saga Harry Potter\07 - Harry Potter y las reliquias de la muerte - Parte 1.mkv
+F:\Peliculas\HD\Saga Harry Potter\08 - Harry Potter Y Las Reliquias De La Muerte - Parte II.mkv
+F:\Peliculas\SD\El gran rescate
+F:\Peliculas\SD\El tren.avi
+F:\Peliculas\SD\El tren.srt
+F:\Peliculas\SD\Por quien doblan las campanas.avi
+F:\Peliculas\SD\El gran rescate\El gran rescate cd1.avi
+F:\Peliculas\SD\El gran rescate\El gran rescate cd2.avi
